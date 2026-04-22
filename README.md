@@ -27,7 +27,7 @@ This project presents an end-to-end data analysis pipeline for an e-commerce dat
 ---
 
 ## 📂 Project Structure
-
+```
 ecommerce-analysis/
 │
 ├── data/
@@ -49,7 +49,7 @@ ecommerce-analysis/
 ├── app.py
 │
 └── README.md
-
+```
 ---
 
 ## ⚙️ Installation & Setup
